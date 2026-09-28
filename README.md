@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MedInfera
 
 MedInfera is a hospital operations application with a React frontend and a Node.js/Express REST API. The backend uses PostgreSQL through Prisma and provides JWT-based authentication, role-based access control, and Socket.IO support for realtime features.
@@ -283,3 +284,6 @@ Treat these as known integration work, not as proof that no other mismatches exi
 - Restrict CORS to the actual frontend origin(s) in production and verify credential behavior for both HTTP and Socket.IO.
 - Avoid using real patient information in development, screenshots, test fixtures, or public issue reports.
 - Review authorization rules and audit coverage for every new route before release.
+=======
+# Hospital-Management-System-Medinfera
+>>>>>>> 7b7b5e1b1f69c97514a9958640a8e24f874b395f
