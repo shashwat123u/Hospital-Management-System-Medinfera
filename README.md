@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # MedInfera
 
 MedInfera is a hospital operations application with a React frontend and a Node.js/Express REST API. The backend uses PostgreSQL through Prisma and provides JWT-based authentication, role-based access control, and Socket.IO support for realtime features.
