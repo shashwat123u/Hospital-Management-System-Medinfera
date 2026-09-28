@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none">
+  <defs>
+    <linearGradient id="heart" x1="17" y1="24" x2="103" y2="104" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#12385B"/>
+      <stop offset="1" stop-color="#287E9C"/>
+    </linearGradient>
+    <linearGradient id="nerve" x1="49" y1="50" x2="82" y2="90" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#287E9C"/>
+      <stop offset="1" stop-color="#06BCD4"/>
+    </linearGradient>
+  </defs>
+  <path d="M64 111 54 105C32 91 11 72 11 48 11 31 23 19 39 19c11 0 20 6 25 16 5-10 14-16 25-16 16 0 28 12 28 29 0 24-21 43-43 57l-10 6Z" stroke="url(#heart)" stroke-width="4.5" stroke-linejoin="round"/>
+  <path d="M12 43h19l5-8 5 17 7-32 7 37 6-17 5 8h5" stroke="#174B70" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g stroke="url(#nerve)" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M68 82V57m0 11-10-10m10 7 9-11m-9 25-12-1m12 1 13-2m-13-5-1-12m1 5 9 5m-9 8 7 10m-7-10-8 10m-2-24v-9m10 9 7-8m-18 16-10 4m20-4 10 5"/>
+    <path d="M56 58 51 53m7 5-1-9m20 3 5-5m-3 13 10-1m-9 13 9 4m-12-2 6 10m-23-1-1 11m-7-11-7 8m3-16-10-1m14-4-8-7"/>
+  </g>
+  <g fill="#08BDD5">
+    <circle cx="68" cy="72" r="4.2" fill="#B9F5F6"/>
+    <circle cx="51" cy="53" r="2.4"/><circle cx="57" cy="49" r="2.2"/>
+    <circle cx="83" cy="44" r="2.6"/><circle cx="89" cy="60" r="2.2"/>
+    <circle cx="91" cy="77" r="2.5"/><circle cx="81" cy="86" r="2.6"/>
+    <circle cx="55" cy="93" r="2.4"/><circle cx="42" cy="81" r="2.3"/>
+  </g>
+  <g fill="#1E6385">
+    <circle cx="58" cy="58" r="1.8"/><circle cx="77" cy="51" r="1.8"/>
+    <circle cx="78" cy="77" r="1.8"/><circle cx="60" cy="82" r="1.8"/>
+  </g>
+</svg>

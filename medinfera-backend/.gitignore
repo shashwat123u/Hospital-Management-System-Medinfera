@@ -1,0 +1,14 @@
+node_modules/
+.env
+.env.local
+.env.production
+logs/
+*.log
+dist/
+build/
+.DS_Store
+coverage/
+.nyc_output/
+*.pem
+me.bat
+pri.bat
