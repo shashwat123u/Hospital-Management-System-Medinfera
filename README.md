@@ -1517,4 +1517,18 @@ Response
 React UI
 
 This architecture allows the application to provide a centralized platform for managing major hospital operations while maintaining separation between presentation, business logic, authentication, database access and realtime communication.
+## 🔐 Demo Login Credentials
+
+The following accounts are available for evaluating different role-based features of the system.
+
+| Role | Email | Password |
+|---|---|---|
+| Super Admin | `superadmin@medinfera.com` | `SuperAdmin@123` |
+| Admin | `admin@medinfera.com` | `Password@123` |
+| Doctor | `doctor@medinfera.com` | `Password@123` |
+| Patient | `patient@medinfera.com` | `Password@123` |
+| Pharmacist | `pharmacist@medinfera.com` | `Password@123` |
+| Staff | `staff@medinfera.com` | `Password@123` |
+
+> **Note:** These are demo/evaluation accounts intended for testing the application's authentication and role-based access control (RBAC). They do not contain production or personal credentials.
 
